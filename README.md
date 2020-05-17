@@ -1,4 +1,6 @@
-# Hello-World
-just a test
-hi,I'm here!
-OK，I'm back!
+# Hello-World for Web: HTML5、CSS3、JavaScript
+------
+这个是我第一个网站的开始，主要是练习前端的开发技能。
+1. 首先，我要先用GitHub作为我的第一个可访问的网站托管服务器。
+2. 制作一个==网页版==的日记本。主要目的是练习初步搭建网页框架、调整样式以及初级交互功能。
+3. 待续....
